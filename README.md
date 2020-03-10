@@ -5,7 +5,7 @@ Front-End Web Development
 
 ![Flowsheet v1.0](https://github.com/javanada/teamfive-docs/blob/master/flowsheet/webapp_flowsheet.jpg)
 
-![ReactJS Flowsheet v1.0](https://github.com/javanada/teamfive-docs/blob/master/flowsheet/ReactJS%20-%20Web%20UML_1-1.jpg)
+![ReactJS Flowsheet v1.1](https://github.com/javanada/teamfive-docs/blob/master/flowsheet/ReactJS%20-%20Web%20UML_1-1.jpg)
 
 ![ReactJS Mapping Flowsheet v1.0](https://github.com/javanada/teamfive-docs/blob/master/flowsheet/UML-design.jpg)
 
